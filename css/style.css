@@ -762,7 +762,7 @@ top: 0;
 }
 
 @media only screen and (min-device-width: 300px) and (max-device-width: 300px) (orientation : portrait){
-.ix {left: 2px;}
+/*.ix {left: 2px;}*/
 .searchIcon {float: unset;
   top: -12px;
   right: 0px;

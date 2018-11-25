@@ -155,7 +155,7 @@ text-decoration: none;
 }
 
 #timeline .listing {
-background: linear-gradient(to top left, white, #eaeaea);
+background: linear-gradient(to top left, #ffffff61, #eaeaea);
 /*	border: 1px solid #d9dee9;*/
 border-radius: .3em;
 padding: 1em;
@@ -330,7 +330,7 @@ vertical-align: middle;}
 cursor: pointer;
 -webkit-box-shadow: 0px 2px 40px 0 rgba(0,0,0,0.1);
 box-shadow: 0px 2px 40px 0 rgba(0,0,0,0.1);
-background: linear-gradient(to bottom left, white, #eaeaea);
+background: linear-gradient(to bottom left, white, #ffffff61);
 /* height:175px; */
 }
 

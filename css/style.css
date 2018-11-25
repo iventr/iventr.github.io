@@ -706,7 +706,7 @@ top: 0;
 }
 }
 
-@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait){
 .ix {left: 2px;}
 .searchIcon {float: unset;
   top: -12px;

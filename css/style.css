@@ -794,7 +794,7 @@ top: 0;
         font-size: 2em;
         color: #8080807a;
     }
-    .searchline {border-bottom: 2px solid #cccccc96;top: 25px;}
+    .searchline {border-bottom: 2px solid #cccccc96;/*top: 25px;*/}
     
   /*  .isx {top: -5.5px;}*/
     

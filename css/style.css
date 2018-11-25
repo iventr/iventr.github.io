@@ -745,3 +745,19 @@ top: 0;
 
     .nav {text-align: center;}
 }
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 492px) and (orientation : portrait){
+.ix {left: 2px;}
+.searchIcon {float: unset;
+  top: -12px;
+  right: 0px;
+  left: 185px;
+  position: relative;
+  font-size: 2em;
+  color: #8080807a;
+    }
+    .searchline {
+        border-bottom: 2px solid #cccccc96;
+        top: -10px;
+    }
+}

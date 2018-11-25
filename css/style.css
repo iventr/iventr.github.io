@@ -22,9 +22,11 @@ position: relative;
 top: -75px;
 }
 .btun{
-
-top: 30px!important;
+    top: 30px!important;
     left: 45px;
+    background-color: #80808033;
+    padding: 11px;
+    color: white;
 }
 .logoo {
 position: relative;

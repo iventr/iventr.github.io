@@ -456,3 +456,292 @@ position: relative;
     position: absolute;
     box-shadow: -1px 1px 2px rgba(0,0,0,.2);
 }
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+/* Styles */
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width : 321px) {
+/* Styles */
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) {
+/* Styles */
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+/* Styles */
+}
+
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+/* Styles */
+}
+
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+/* Styles */
+}
+/**********
+iPad 3
+**********/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}
+/* Desktops and laptops ----------- */
+@media only screen  and (min-width : 1224px) {
+
+}
+
+/* Large screens ----------- */
+@media only screen  and (min-width : 1824px) {
+/* Styles */
+}
+
+/* iPhone 4 ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}
+
+/* iPhone 5 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+    #timeline .listing .job_price {
+        text-transform: uppercase;
+        font-weight: 700;
+        font-size: .75em;
+        position: relative;
+        white-space: nowrap;
+        padding-top: .6em;
+        width: 100px;
+        display: table-cell;
+        vertical-align: top;
+    }
+    #timeline .listing .info .job_title {
+
+font-size: 1.1em;
+
+}
+    .w {
+        padding-bottom: 3px;
+right: -5px;
+    }
+    .logo img {
+        width: 55px;
+    }
+    .searchIcon {
+        float: unset;
+        top: -15px;
+        right: 0px;
+        left: 160px;
+        position: relative;
+        font-size: 1.5em;
+        color: #8080807a;
+    }
+    h1.logoText {
+        position: relative;
+        left: -65px;
+        font-size: .9em;
+        top: 5px;
+    }
+    .searchline {
+        border-bottom: 2px solid #cccccc96;
+        top: -4px;
+    }
+    .nav {
+        float: right;
+        padding-top: 4px;
+        padding-right: 4px;
+        border-bottom: 2px solid #cccccc96;
+        background-color: #80808073;    
+        border-radius: 4px;     
+    }
+    .nav .current {
+        font-weight: 900;
+        color: white;
+    }
+    .nav a {
+        color: white;
+    }
+    .tm {
+        font-size: .69em;
+
+    }
+    span.location {
+
+        font-size: .69em;
+    }
+
+}
+
+/* iPhone 6 ----------- */
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : landscape){
+
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : portrait){
+    #timeline .listing .job_price {
+        text-transform: uppercase;
+        font-weight: 700;
+        font-size: .75em;
+        position: relative;
+        white-space: nowrap;
+        padding-top: .6em;
+        width: 100px;
+        display: table-cell;
+        vertical-align: top;
+    }
+    .w {
+        padding-bottom: 3px;
+/*right: -5px;*/
+    }
+    .tm{
+
+        left: 90%;
+    }
+    h1.logoText {
+        position: relative;
+        left: -70px;
+        top: 10px;
+    }
+    .searchIcon {
+        float: unset;
+        top: -25px;
+        right: 0px;
+        left: 200px;
+        position: relative;
+        font-size: 2em;
+        color: #8080807a;
+    }
+    .searchline {
+        border-bottom: 2px solid #cccccc96;
+        top: 25px;
+    }
+    .tm {
+        font-size: .69em;
+
+    }
+    span.location {
+
+        font-size: .69em;
+    }
+}
+
+/* iPhone 6+ ----------- */
+@media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+
+}
+
+@media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : portrait) {
+    #timeline .listing .job_price {
+        text-transform: uppercase;
+        font-weight: 700;
+        font-size: .75em;
+        position: relative;
+        white-space: nowrap;
+        padding-top: .6em;
+        width: 100px;
+        display: table-cell;
+        vertical-align: top;
+    }
+    .w {
+        padding-bottom: 3px;
+/*right: -5px;*/
+    }
+    .searchIcon {
+        float: unset;
+        top: -20px;
+        right: 0px;
+        left: 230px;
+        position: relative;
+        font-size: 2em;
+        color: #8080807a;
+    }
+    h1.logoText {
+        position: relative;
+        left: -100px;
+        top: 10px;
+    }
+    .searchline {
+        border-bottom: 2px solid #cccccc96;
+        top: -4px;
+    }
+    .nav {
+        float: right;
+        padding-top: 0em;
+        border-bottom: 2px solid #cccccc96;
+    }
+    .tm {
+        font-size: .69em;
+
+    }
+    .isx {
+top: 0;
+}
+    span.location {
+
+        font-size: .69em;
+    }
+}
+
+/* Samsung Galaxy S3 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+/* Samsung Galaxy S4 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+/* Samsung Galaxy S5 ----------- */
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+/* iPhone X ----------- */
+@media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (orientation : portrait){
+
+    .searchIcon {
+        float: unset;
+        top: -12px;
+        right: 0px;
+        left: 205px;
+        position: relative;
+        font-size: 2em;
+        color: #8080807a;
+    }
+    .searchline {border-bottom: 2px solid #cccccc96;top: 25px;}
+    
+    .isx {top: -5.5px;}
+    
+    .ix {left: 25px;}
+
+    .nav {text-align: center;}
+}

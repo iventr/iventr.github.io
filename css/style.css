@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=PT+Mono');
 ::-webkit-scrollbar {
     display:none;
-      width: 1px;    
+      width: 1px;
+    
     }
 body {
 font-family: "PT Mono", sans-serif;

@@ -800,16 +800,20 @@ top: 0;
 
 @media only screen and (min-device-width: 300px) and (max-device-width: 300px) (orientation : portrait){
 /*.ix {left: 2px;}*/
-.searchIcon {float: unset;
-  top: -12px;
-  right: 0px;
-  left: 185px;
-  position: relative;
-  font-size: 2em;
-  color: #8080807a;
+    .searchIcon {
+        float: unset;
+        top: -12px;
+        right: 0px;
+        left: 205px;
+        position: relative;
+        font-size: 2em;
+        color: #8080807a;
     }
- .searchline {
-        border-bottom: 2px solid #cccccc96;
-        top: -10px;
-    }
+    .searchline {border-bottom: 2px solid #cccccc96;top: 25px;}
+    
+    .isx {top: -5.5px;}
+    
+    .ix {left: 25px;}
+
+    .nav {text-align: center;}
 }

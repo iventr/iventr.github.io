@@ -690,6 +690,7 @@ top: 0;
 
 /* Samsung Galaxy S3 ----------- */
 @media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+    
 .ix {left: 2px;}
 .searchIcon {float: unset;
   top: -12px;
@@ -707,6 +708,7 @@ top: 0;
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait){
+    h1.logoText {position:relative;left:-80px;top:8px;}
 .ix {left: 2px;}
 .searchIcon {float: unset;
   top: -12px;

@@ -456,13 +456,7 @@ position: relative;
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 310px) and (max-device-width : 480px) {
     h1.logoText {position:relative;left:-60px;top:8px;}
-        canvas#c {
-    position: absolute;
-    opacity: .25;
-    width: 100%;
-    height: 150vh;
-        z-index: -5;
-}
+
 /* Styles */
 }
 

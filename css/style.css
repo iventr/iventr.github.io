@@ -9,6 +9,9 @@ font-family: "PT Mono", sans-serif;
 padding-bottom: 5em;
 background-color: #d9dee933;
 }
+canvas#c {
+    position: absolute;
+}
 .logo {
 position: relative;
 top: -75px;

@@ -725,11 +725,37 @@ top: 0;
 
 /* Samsung Galaxy S4 ----------- */
 @media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
-/* Styles */
+.ix {left: 2px;}
+.searchIcon {float: unset;
+  top: -12px;
+  right: 0px;
+  left: 185px;
+  position: relative;
+  font-size: 2em;
+  color: #8080807a;
+    }
+    .searchline {
+        border-bottom: 2px solid #cccccc96;
+        top: -10px;
+    }
+}
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
-/* Styles */
+.ix {left: 2px;}
+.searchIcon {float: unset;
+  top: -12px;
+  right: 0px;
+  left: 185px;
+  position: relative;
+  font-size: 2em;
+  color: #8080807a;
+    }
+    .searchline {
+        border-bottom: 2px solid #cccccc96;
+        top: -10px;
+    }
+}
 }
 
 /* Samsung Galaxy S5 ----------- */
@@ -738,7 +764,20 @@ top: 0;
 }
 
 @media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
-/* Styles */
+.ix {left: 2px;}
+.searchIcon {float: unset;
+  top: -12px;
+  right: 0px;
+  left: 185px;
+  position: relative;
+  font-size: 2em;
+  color: #8080807a;
+    }
+    .searchline {
+        border-bottom: 2px solid #cccccc96;
+        top: -10px;
+    }
+}
 }
 /* iPhone X ----------- */
 @media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (orientation : portrait){

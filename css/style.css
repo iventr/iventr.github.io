@@ -25,7 +25,7 @@ position: relative;
 top: -75px;
 }
 .border {
-height: 6px;
+height: .001px;
 border: 0;
 background-color: #fd7473;
 background-image: -webkit-gradient(linear, left top, right top, from(#fd7473), color-stop(25%, #fd7473), color-stop(25%, #fec951), color-stop(50%, #fec951), color-stop(50%, #47b8e0), color-stop(75%, #47b8e0), color-stop(75%, #9f68d0), color-stop(100%, #9f68d0), to(#9f68d0));

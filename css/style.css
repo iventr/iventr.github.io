@@ -519,7 +519,7 @@ iPad 3
 
 }
 
-@media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : portrait){
     #timeline .listing .job_price {
         text-transform: uppercase;
         font-weight: 700;
@@ -699,7 +699,7 @@ top: 0;
 }
 
 /* Samsung Galaxy S3 ----------- */
-@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) {
     
 .ix {left: 2px;}
 .searchIcon {float: unset;

@@ -150,7 +150,7 @@ padding: 0;
 #timeline::after {
 content: " ";
 width: 1px;
-background: 1px #d9dee9;
+background: 1px #ffffff4f;
 height: 90%;
 position: absolute;
 top: 5em;

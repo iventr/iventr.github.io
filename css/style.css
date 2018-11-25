@@ -718,7 +718,7 @@ top: 0;
 
 @media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait){
     h1.logoText {position:relative;left:-60px;top:8px;}
-.ix {left: 2px;}
+.ix {left: 25px;}
 .searchIcon {float: unset;
   top: -12px;
   right: 0px;

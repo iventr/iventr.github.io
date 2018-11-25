@@ -690,11 +690,37 @@ top: 0;
 
 /* Samsung Galaxy S3 ----------- */
 @media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
-/* Styles */
+.ix {left: 2px;}
+.searchIcon {float: unset;
+  top: -12px;
+  right: 0px;
+  left: 185px;
+  position: relative;
+  font-size: 2em;
+  color: #8080807a;
+    }
+    .searchline {
+        border-bottom: 2px solid #cccccc96;
+        top: -10px;
+    }
+}
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
-/* Styles */
+.ix {left: 2px;}
+.searchIcon {float: unset;
+  top: -12px;
+  right: 0px;
+  left: 185px;
+  position: relative;
+  font-size: 2em;
+  color: #8080807a;
+    }
+    .searchline {
+        border-bottom: 2px solid #cccccc96;
+        top: -10px;
+    }
+}
 }
 
 /* Samsung Galaxy S4 ----------- */
@@ -735,7 +761,7 @@ top: 0;
     .nav {text-align: center;}
 }
 
-@media only screen and (min-device-width: 300px) and (orientation : portrait){
+@media only screen and (min-device-width: 300px) and (max-device-width: 300px) (orientation : portrait){
 .ix {left: 2px;}
 .searchIcon {float: unset;
   top: -12px;

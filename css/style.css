@@ -703,7 +703,7 @@ top: 0;
         border-bottom: 2px solid #cccccc96;
         top: -10px;
     }
-}
+
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait){
@@ -720,7 +720,7 @@ top: 0;
         border-bottom: 2px solid #cccccc96;
         top: -10px;
     }
-}
+
 }
 
 /* Samsung Galaxy S4 ----------- */
@@ -739,7 +739,6 @@ top: 0;
         top: -10px;
     }
 }
-}
 
 @media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait){
 .ix {left: 2px;}
@@ -755,7 +754,6 @@ top: 0;
         border-bottom: 2px solid #cccccc96;
         top: -10px;
     }
-}
 }
 
 /* Samsung Galaxy S5 ----------- */
@@ -777,7 +775,6 @@ top: 0;
         border-bottom: 2px solid #cccccc96;
         top: -10px;
     }
-}
 }
 /* iPhone X ----------- */
 @media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (orientation : portrait){

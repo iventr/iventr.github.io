@@ -462,10 +462,12 @@ position: relative;
     nav.nav {
     background: #6767673d;
     width: -webkit-fill-available;
-    float: right;
-    text-align: right;
-    padding-right: 30px;
+    /* float: right; */
+    /* text-align: right; */
+    /* padding-right: 45px; */
     padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: -webkit-center;
 }
 
 /* Styles */

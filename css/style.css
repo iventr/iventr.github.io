@@ -8,18 +8,6 @@ font-family: "PT Mono", sans-serif;
 padding-bottom: 5em;
 background-color: #d9dee933;
 }
-
-
-@import url('https://fonts.googleapis.com/css?family=PT+Mono');
-::-webkit-scrollbar {
-    display:none;
-      width: 1px;
-  }
-body {
-font-family: "PT Mono", sans-serif;
-padding-bottom: 5em;
-background-color: #d9dee933;
-}
 .logo {
 position: relative;
 top: -75px;

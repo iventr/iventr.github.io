@@ -755,7 +755,7 @@ top: 0;
     }
     .searchline {
         border-bottom: 2px solid #cccccc96;
-           top: 20px;
+       /*top: 20px;*/
     width: 85%;
     }
 }

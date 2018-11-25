@@ -2,6 +2,7 @@
 ::-webkit-scrollbar {
     display:none;
       width: 1px;
+    
   }
 body {
 font-family: "PT Mono", sans-serif;

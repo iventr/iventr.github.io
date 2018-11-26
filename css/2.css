@@ -1023,11 +1023,10 @@ top: 0;
   }
 
   .answer{
-
     font-size: 2em;
     text-align: center;
-    float: right;
-    position: relative;
+    font-weight: bolder;
+    /* position: relative; */
     left: 95px;
-
+    display: block;
   }

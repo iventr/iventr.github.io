@@ -871,6 +871,7 @@ top: 0;
  /*   width: calc(25% - 2rem);
     margin: 1rem;*/
     cursor: pointer;
+    margin-bottom: 1em;
   }
   
   .container{

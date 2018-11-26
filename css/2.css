@@ -1001,11 +1001,7 @@ top: 0;
     bottom: -.75rem;
   }
   
-  .front .inner span{
-    color: rgba(255,255,255,0.7);
-    font-family: 'Montserrat';
-    font-weight: 300;
-  }
+
   
   @media screen and (max-width: 64rem){
     .col{

@@ -813,7 +813,11 @@ top: 0;
 /* iPhone X ----------- */
 @media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (orientation : portrait){
     
-    h1.logoText {position:relative;left:-80px;top:8px;}
+    h1.logoText {
+        position:relative;    left: -75px;
+    top: 0px;
+    color: #688ca7;
+    font-size: 1.6em;}
 
     .searchIcon {
         float: unset;

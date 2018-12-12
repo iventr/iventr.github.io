@@ -1,7 +1,11 @@
 .accordion {
-  max-width: 560px;
-  margin: 0 auto 100px;
-  border-top: 1px solid #d9e5e8;
+    max-width: 560px;
+    margin: 0 auto 100px;
+    /* border-top: 1px solid #d9e5e8; */
+    position: relative;
+    top: 50px;
+    left: -20px;
+    text-align: center;
 }
 .accordion li {
   border-bottom: 1px solid #d9e5e8;

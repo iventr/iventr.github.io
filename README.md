@@ -1,5 +1,5 @@
 # Десктоп<br>
-<img width="60%" src="images/6.png"> 
+<img width="60%" src="images/6.png"/> 
 ## Мобильная версия <br>
 <img width="60%" src="images/5.png">
 <img width="60%" src="images/3.png">

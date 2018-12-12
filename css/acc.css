@@ -30,7 +30,7 @@
   border-bottom: 1px solid #4a6e78;
   position: absolute;
   right: 10px;
-  content: " ";
+/*  content: " ";*/
   top: 17px;
   transform: rotate(-45deg);
   -webkit-transition: all 0.2s ease-in-out;

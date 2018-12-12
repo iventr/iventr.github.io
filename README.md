@@ -1,4 +1,4 @@
-# Десктоп<br>
+# Десктоп версия<br>
 <img width="60%" src="images/6.png"></img> 
 ## Мобильная версия <br>
 <img width="60%" src="images/5.png">

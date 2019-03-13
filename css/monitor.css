@@ -1,2 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
 body {font-family: 'Press Start 2P', cursive;}
+item#result {
+    position: relative;
+    top: 20vh;
+    font-size: 15px!important;
+}

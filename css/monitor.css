@@ -4,4 +4,5 @@ item#result {
     position: relative;
     top: 20vh;
     font-size: 15px!important;
+    border:3px solid grey;
 }

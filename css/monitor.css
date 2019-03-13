@@ -5,4 +5,5 @@ item#result {
     top: 20vh;
     font-size: 15px!important;
     border:3px solid grey;
+    border-radius: 8px;
 }
